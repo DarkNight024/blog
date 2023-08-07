@@ -1,0 +1,8 @@
+django==4.2.1                    # django
+django-environ==0.10.0           # crear variables de ambiente, seguridad
+django-cors-headers==4.0.0       # permisos de conexion entre back y front
+djangorestframework==3.14.0      # crear apis 
+Pillow==9.5.0                    # trabajar con imagenes
+django-storages==1.13.2          # guardar archivos pesados dinamicos en un CDN
+django-ckeditor==6.5.1           # crear contenido rico personalizado
+psycopg2==2.9.6                  # poder trabajar con postgresql

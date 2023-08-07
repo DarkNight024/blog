@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7947299b.css",
+    "main.js": "/static/js/main.e0242511.js",
+    "static/media/boomslag-black.png": "/static/media/boomslag-black.27e2b30710dda10e3cd2.png",
+    "static/media/loading-dots.gif": "/static/media/loading-dots.459cb7f164c08cfe316c.gif",
+    "index.html": "/index.html",
+    "main.7947299b.css.map": "/static/css/main.7947299b.css.map",
+    "main.e0242511.js.map": "/static/js/main.e0242511.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7947299b.css",
+    "static/js/main.e0242511.js"
+  ]
+}
